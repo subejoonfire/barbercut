@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\barbercut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\berandapub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewpublic\\berandapub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewpublic\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewpublic\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\berandapub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewpublic\\berandapub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\model\\barber_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\model\\barber_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\barber.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewuser\\barber.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\barbertambah.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewuser\\barbertambah.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\barberedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewuser\\barberedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|c:\\users\\administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\barber.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{56F53C46-0E6A-4757-9C90-F489DCB6AA01}|barbercut\\barbercut.vbproj|solutionrelative:barbercut\\viewuser\\barber.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Barber.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\Barber.aspx",
+              "RelativeDocumentMoniker": "barbercut\\viewuser\\Barber.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\Barber.aspx",
+              "RelativeToolTip": "barbercut\\viewuser\\Barber.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-16T10:06:38.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\Footer.ascx",
+              "RelativeDocumentMoniker": "barbercut\\viewpublic\\Footer.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\Footer.ascx",
+              "RelativeToolTip": "barbercut\\viewpublic\\Footer.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-16T11:31:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\Header.ascx",
+              "RelativeDocumentMoniker": "barbercut\\viewpublic\\Header.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\Header.ascx",
+              "RelativeToolTip": "barbercut\\viewpublic\\Header.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-16T11:29:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BerandaPub.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\BerandaPub.aspx",
+              "RelativeDocumentMoniker": "barbercut\\viewpublic\\BerandaPub.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\BerandaPub.aspx",
+              "RelativeToolTip": "barbercut\\viewpublic\\BerandaPub.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-16T11:00:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BerandaPub.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\BerandaPub.aspx.vb",
+              "RelativeDocumentMoniker": "barbercut\\viewpublic\\BerandaPub.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewpublic\\BerandaPub.aspx.vb",
+              "RelativeToolTip": "barbercut\\viewpublic\\BerandaPub.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-16T10:55:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Barber_m.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\model\\Barber_m.vb",
+              "RelativeDocumentMoniker": "barbercut\\model\\Barber_m.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\model\\Barber_m.vb",
+              "RelativeToolTip": "barbercut\\model\\Barber_m.vb",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAMwFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-16T10:43:11.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarberEdit.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\BarberEdit.aspx",
+              "RelativeDocumentMoniker": "barbercut\\viewuser\\BarberEdit.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\BarberEdit.aspx",
+              "RelativeToolTip": "barbercut\\viewuser\\BarberEdit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-16T10:35:54.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarberTambah.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\BarberTambah.aspx.vb",
+              "RelativeDocumentMoniker": "barbercut\\viewuser\\BarberTambah.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\BarberTambah.aspx.vb",
+              "RelativeToolTip": "barbercut\\viewuser\\BarberTambah.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-16T10:34:39.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Barber.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\Barber.aspx.vb",
+              "RelativeDocumentMoniker": "barbercut\\viewuser\\Barber.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\barbercut\\barbercut\\viewuser\\Barber.aspx.vb",
+              "RelativeToolTip": "barbercut\\viewuser\\Barber.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-16T10:09:24.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
